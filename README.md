@@ -1,2 +1,3 @@
 # first-test
-in ye test workshop hast k mikhaym ye barnamaro debug konim.
+its gonna be my first experience with git 
+
